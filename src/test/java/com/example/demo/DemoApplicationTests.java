@@ -50,4 +50,6 @@ class DemoApplicationTests {
         System.out.println(redisTemplate.opsForValue().get("user"));
     }
 
+
+
 }
